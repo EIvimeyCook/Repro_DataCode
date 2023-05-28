@@ -1,0 +1,51 @@
+IND,HAB,SEX of individual,T1,T2,T3,T4,T5,LOGDT
+3a,1,F,11,29,17,12,11,"Wednesday, 31 March 1999"
+4,1,NA,17,23,15,15,7,"Wednesday, 28 July 1999"
+4,1,M,13,26,12,11,11,"Friday, 29 October 1999"
+2,1,f,12,21,11,10,6,"Monday, 18 October 1999"
+NA,1,NA,na,25,null,null,6,"Friday, 5 February 1999"
+2,0,M,7,18,19,13,10,"Saturday, 6 March 1999"
+1,0,M,12,19,8,7,14,"Friday, 24 December 1999"
+1,0,F,21,18,9,,12,"Wednesday, 21 July 1999"
+3a,0,F,10,18,12,12,9,"Tuesday, 3 August 1999"
+4,1,M,23,17,11,18,10,"Saturday, 9 October 1999"
+1,0,F,16,19,14,10,14,"Tuesday, 27 July 1999"
+1,0,male,33,19,12,9,9,"Monday, 30 August 1999"
+3,0,F,na,22,10,12,9,"Friday, 10 September 1999"
+NA,1,na,23,19,13,13,9,"Sunday, 4 April 1999"
+1,1,F,14,20,11,17,11,"Thursday, 21 January 1999"
+2,1,male,18,29,,8,12,"Friday, 8 October 1999"
+4,1,M,18,20,8,18,15,"Thursday, 9 December 1999"
+5,0,M,15,24,13,12,11,"Friday, 2 July 1999"
+4,0,MALE,13,16,11,16,8,"Sunday, 28 November 1999"
+5,0,F,14,22,11,13,10,"Wednesday, 24 February 1999"
+4,0,F,13,25,11,null,8,"Monday, 13 September 1999"
+2,,F,15,28,13,10,6,"Thursday, 7 January 1999"
+5a,0,F,14,21,null,15,7,"Saturday, 18 December 1999"
+2,0,F,12,24,10,17,11,"Tuesday, 30 March 1999"
+1,0,f,14,25,9,10,6,"Tuesday, 1 June 1999"
+5,1,FEMALE,9,16,15,10,8,"Friday, 26 February 1999"
+NA,1,M,15,24,11,13,13,"Thursday, 1 April 1999"
+3,1,F,,17,10,10,,"Saturday, 20 February 1999"
+2,1,M,18,18,9,11,15,"Sunday, 7 February 1999"
+4,1,M,13,19,6,7,8,"Wednesday, 3 November 1999"
+4,,F,23,28,8,7,9,1.10.99
+n/a,0,M,14,13,13,8,11,18.8.99
+1,0,F,not recorded,not recorded,not recorded,not recorded,10,12.4.99
+2,0,F,15,29,10,13,11,25.6.99
+n/a,0,F,NA,NA,NA,15,NA,26.10.99
+2,0,M,23,21,16,15,14,1.11.99
+2,0,M,18,17,7,9,12,17.6.99
+5,1,M,17,21,17,11,12,12.10.99
+3,1,F,,,10,11,,31.5.99
+na,1,F,8,20,10,13,12,6.9.99
+4,0,F,15,14,6,6,7,29.7.99
+4,1,M,n/a,21,10,14,15,3.6.99
+5,1,M,na,21,12,12,9,7.6.99
+5,0,f,16,25,18,9,6,10.6.99
+2,0,F,13,18,15,9,8,15.6.99
+1,0,M,13,23,17,17,13,11.6.99
+5,0,F,16,21,14,7,9,2.5.99
+3,1,M,na,na,na,11,13,2.11.99
+5,1,M,15,16,13,10,10,7.4.99
+3,1,M,10,14,13,10,6,5.9.99
